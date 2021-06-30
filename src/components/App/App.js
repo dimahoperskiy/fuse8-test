@@ -14,7 +14,7 @@ const App = (props) => {
     const handleChange = (e) => {
         let val = e.target.value
         if (val.length >= 3) {
-            setFilter(props.houses.filter(el => el.title.toLowerCase().trim().includes(val)))
+            setFilter(props.houses.filter(el => el.title.toLowerCase().trim().includes(val.toLowerCase())))
         } else {
             setFilter(props.houses)
         }
