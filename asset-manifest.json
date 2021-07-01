@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fuse8-test/static/css/main.22cf98cf.chunk.css",
+    "main.css": "/fuse8-test/static/css/main.557cd2db.chunk.css",
     "main.js": "/fuse8-test/static/js/main.b952a843.chunk.js",
     "main.js.map": "/fuse8-test/static/js/main.b952a843.chunk.js.map",
     "runtime-main.js": "/fuse8-test/static/js/runtime-main.d9ac7fdd.js",
@@ -10,14 +10,14 @@
     "static/js/3.3ed56016.chunk.js": "/fuse8-test/static/js/3.3ed56016.chunk.js",
     "static/js/3.3ed56016.chunk.js.map": "/fuse8-test/static/js/3.3ed56016.chunk.js.map",
     "index.html": "/fuse8-test/index.html",
-    "static/css/main.22cf98cf.chunk.css.map": "/fuse8-test/static/css/main.22cf98cf.chunk.css.map",
+    "static/css/main.557cd2db.chunk.css.map": "/fuse8-test/static/css/main.557cd2db.chunk.css.map",
     "static/js/2.0a7d7350.chunk.js.LICENSE.txt": "/fuse8-test/static/js/2.0a7d7350.chunk.js.LICENSE.txt",
     "static/media/chevron.97a27ab1.svg": "/fuse8-test/static/media/chevron.97a27ab1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d9ac7fdd.js",
     "static/js/2.0a7d7350.chunk.js",
-    "static/css/main.22cf98cf.chunk.css",
+    "static/css/main.557cd2db.chunk.css",
     "static/js/main.b952a843.chunk.js"
   ]
 }
